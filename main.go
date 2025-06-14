@@ -1,1 +1,3 @@
-adflkjasdlkfjasdklfjlsdkjl
+fun main {
+printF
+}
